@@ -5,8 +5,7 @@
   <title>My CI4 App</title>
 
   <!-- ✅ Bootstrap CDN -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+   <link rel="stylesheet" href="bootstrap-5.3.7-dist\bootstrap-5.3.7-dist\css\bootstrap.min.css">
 </head>
 <body>
 
@@ -29,6 +28,6 @@
   <div class="container mt-4">
     <h1>Welcome to CodeIgniter 4 with Bootstrap!</h1>
   </div>
-
+  <script src="bootstrap-5.3.7-dist\bootstrap-5.3.7-dist\js\bootstrap.bundle.js"></script>
 </body>
 </html>
